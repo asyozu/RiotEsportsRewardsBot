@@ -1,4 +1,4 @@
-# LoL Esports Drops Watcher
+# LoL Esports Drops Farmer
 
 A lightweight **Python async bot** that simulates watching live matches on the official LoL Esports website in order to automatically track and claim **in-game drops** from Riot's LoL Esports events.
 
@@ -30,8 +30,8 @@ The script continuously checks for live matches, sends watch events to the LoL E
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/lolesports-drops-watcher.git
-cd lolesports-drops-watcher
+git clone https://github.com/asyozu/LoLEsports-Drops-Farmer.git
+cd LoLEsports-Drops-Farmer
 pip install -r requirements.txt
 ```
 
